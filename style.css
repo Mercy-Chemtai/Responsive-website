@@ -1,0 +1,128 @@
+#form{
+padding:5%;
+padding-left: 10%;
+font-size: 25px;
+    
+}
+.h1{
+    color: red;
+    font-size: 20px;
+}
+.button1{
+    background-color: blue;
+    border-radius: 10%;
+    font-size: 20px;
+}
+.h2{
+    font-size: 35px;
+}
+.p1{
+    font-size: 30px;
+    color: rgb(111, 107, 107);
+}
+.cleaning{
+    color: blue;
+    font-size: 35px;
+
+}
+.images{
+    border: 2px;
+    border-radius:20px ;
+    padding:8%;
+    border-radius: 50%;
+}
+.page1{
+    display:flex;
+}
+.subpage{
+    margin-top: 5%;
+}
+.image1{
+    border-radius: 50px;
+}
+.heart{
+    color: blue;
+
+}
+.h22{
+    font-size: 20px;
+
+}
+.word21{
+    color: red;
+    font-size: 20px;
+}
+.page2{
+   display:flex ;
+       
+}
+.subtest{
+padding-left: 35%;
+
+}
+.lady2{
+    padding-bottom: 10%;
+}
+.words2{
+padding-left: 30%;
+width: 85%;
+flex-direction: row;
+padding-top: 5%;
+
+}
+.tick{
+    display: flex;
+    height:20 px;
+}
+.about{
+color: red;
+}
+.page3{
+    display: flex;
+}
+.button2{
+    border-radius: 30px;
+
+}
+.home{
+    padding-left: 35%;
+    font-size: 30px;
+}
+.page41{
+     padding-left: 30px;
+     display: flex;
+     column-gap: 20%;
+    
+}
+.photos{
+    display:flex;
+    column-gap: 15%;
+}
+.page51{
+    padding-left: 35%;
+}
+.test{
+    color: red;
+}
+.photo1{
+display: flex;
+
+}
+#navbar{
+     display: flex;
+     padding-left: 15%;
+     gap: 6%;
+}
+.icon{
+    padding-right: 10%;
+}
+.reviews{
+    display: flex;
+    font-size: 25px;
+}
+.footer{
+    display: flex;
+    gap: 130px;
+}
+@media all and (max-width:400px){
+    body{} }
